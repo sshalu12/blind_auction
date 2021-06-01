@@ -1,3 +1,6 @@
+# Blind Auction
+# There is an auction in which auction amount of bidders are hidden . At last the one which has highest auction amount will win.
+
 from replit import clear
 from art import logo
 
